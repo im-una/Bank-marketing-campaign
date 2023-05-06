@@ -24,7 +24,7 @@
   - 기타 정보들: Campaign, Pdays, Previous, Poutcome
   - 사회 경제적 변수들 : emp.var.rate(고용변동율), cons.price.idx(소비자물가지수), cons.conf.idx(소비자신뢰지수)
 
-- Output variable:
+- Output variable
 
   - 고객이 은행에 예금을 예치했는지 여부 (yes/no)
     
