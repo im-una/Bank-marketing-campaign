@@ -4,7 +4,7 @@
 ## 1. 프로젝트 소개
 한 은행에서 은행의 특정 상품을 홍보하여 예금을 수신하기 위해 은행의 고객들을 전화로 contact한 것과 연관된 자료.
 이 자료를 활용하여 현재 진행하는 상품홍보에 적절한 telemarketing 전략을 수립하는 것이 project의 목표
-- 고객들에게 선택적으로 telemarketing하는 것을 가정(거절할 것 같은 고객은 보류, 예금하기로 결정할 것 같은 고객에 대해서만 연락)하여 다음과 같이 classification을 하는 learner를 개발
+- 고객들에게 선택적으로 telemarketing하는 것을 가정(거절할 것 같은 고객은 보류, 예금하기로 결정할 것 같은 고객에 대해서만 연락)하여 다음과 같이 **classification**을 하는 learner를 개발
   - marketing시 예금하기로 결정할 것 같은 고객 => telemarketing을 시도
   - marketing을 거절할 것 같은 고객 => telemarketing을 보류
   
